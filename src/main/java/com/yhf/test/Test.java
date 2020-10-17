@@ -7,5 +7,6 @@ public class Test {
         System.out.println("hello new2");
         System.out.println("hello new3");
         System.out.println("hello new3 to main");
+        System.out.println("hello main compare with current");
     }
 }
