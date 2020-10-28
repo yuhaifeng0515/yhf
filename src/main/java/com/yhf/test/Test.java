@@ -11,5 +11,6 @@ public class Test {
         System.out.println("hello main compare with current");
         
         System.out.println("----1------");
+        System.out.println("----3------");
     }
 }
