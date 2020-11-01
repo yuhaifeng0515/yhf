@@ -34,5 +34,7 @@ public class Test {
         System.out.println("----20-----");
 
         System.out.println("----22-----");
+        
+        System.out.println("----24-----");
     }
 }
